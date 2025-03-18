@@ -51,12 +51,8 @@ My research interest includes neural machine translation and computer vision. I 
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+- *2023.09 - 2026.06 (Expected)*, Master's Degree, School of Information Science and Engineering, Lanzhou University. 
+- *2019.09 - 2023.06*, Bachelor's Degree, School of Information Science and Engineering, Lanzhou University. 
 
 # 💻 Internships
-- *2024.12 - 2025.05*, [Medical Artificial Intelligence Laboratory, Westlake University]([https://github.com/](https://medai.lab.westlake.edu.cn/)), Supervisor: [Yefeng Zheng](https://medai.lab.westlake.edu.cn/Team.htm), China.
+- *2024.12 - 2025.05*, Visiting Student, [Medical Artificial Intelligence Laboratory, School of Engineering, Westlake University]([https://github.com/](https://medai.lab.westlake.edu.cn/)), Hangzhou, China. (Supervisor: [Yefeng Zheng](https://medai.lab.westlake.edu.cn/Team.htm))
