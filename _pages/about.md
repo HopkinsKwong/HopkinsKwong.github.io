@@ -26,7 +26,28 @@ I am currently a master’s student in the School of Information Science and Eng
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">BSPC 2025</div><img src='images/PCSDG.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Structure-aware single-source generalization with pixel-level disentanglement for joint optic disc and cup segmentation](https://www.sciencedirect.com/science/article/abs/pii/S1746809424008590)
+
+**Jia-Xuan Jiang**, Yuee Li, Zhong Wang
+ 
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NEUR 2025</div><img src='images/Kinship.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Multi-attribute balanced dataset generation framework AutoSyn and KinFace Channel-Spatial Feature Extractor for kinship recognition](https://www.sciencedirect.com/science/article/abs/pii/S0925231224015212)
+
+**Jia-Xuan Jiang**, Hongsheng Jing, Ling Zhou, Yuee Li, Zhong Wang
+
+- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">BSPC 2025</div><img src='images/PCSDG.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Structure-aware single-source generalization with pixel-level disentanglement for joint optic disc and cup segmentation](https://www.sciencedirect.com/science/article/abs/pii/S1746809424008590)
