@@ -55,4 +55,4 @@ My research interest includes neural machine translation and computer vision. I 
 - *2019.09 - 2023.06*, Bachelor's Degree, School of Information Science and Engineering, Lanzhou University. 
 
 # 💻 Internships
-- *2024.12 - 2025.05*, Visiting Student, [Medical Artificial Intelligence Laboratory, School of Engineering, Westlake University]([https://github.com/](https://medai.lab.westlake.edu.cn/)), Hangzhou, China. (Supervisor: [Yefeng Zheng](https://medai.lab.westlake.edu.cn/Team.htm))
+- *2024.12 - 2025.05*, Visiting Student, [Medical Artificial Intelligence Laboratory](https://medai.lab.westlake.edu.cn/), School of Engineering, Westlake University, Hangzhou, China. (Supervisor: [Yefeng Zheng](https://medai.lab.westlake.edu.cn/Team.htm))
