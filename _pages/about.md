@@ -21,8 +21,8 @@ I am currently a master’s student in the School of Information Science and Eng
 
 
 # 🔥 News
-- *2024.10*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2024.09*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2024.10*: &nbsp;🎉🎉 One paper accepted to BSPC 2025!
+- *2024.09*: &nbsp;🎉🎉 One paper accepted to NEUR 2025! 
 
 # 📝 Publications 
 
@@ -41,9 +41,7 @@ I am currently a master’s student in the School of Information Science and Eng
 
 [Multi-attribute balanced dataset generation framework AutoSyn and KinFace Channel-Spatial Feature Extractor for kinship recognition](https://www.sciencedirect.com/science/article/abs/pii/S0925231224015212)
 
-**Jia-Xuan Jiang**, Hongsheng Jing, Ling Zhou, Yuee Li, Zhong Wang
-
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+**Jia-Xuan Jiang**, Hongsheng Jing, Ling Zhou, Yuee Li, Zhong Wang 
 </div>
 </div>
 
@@ -55,16 +53,14 @@ I am currently a master’s student in the School of Information Science and Eng
 **Jia-Xuan Jiang**, Yuee Li, Zhong Wang
 
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> 
 </div>
 </div>
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2024.10* China National Scholarship 2024
+- *2024.09* Principal Investigator of the Fundamental Research Funds for the Central Universities of China 
 
 # 📖 Educations
 - *2023.09 - 2026.06 (Expected)*, Master's Degree, School of Information Science and Engineering, Lanzhou University. 

@@ -61,13 +61,47 @@
     }
   }
   h1 {
-    margin-top: 1em;
-    padding-bottom: 0.5em;
-    border-bottom: 1px solid $border-color;
+    margin-top: 1.5em;
+    margin-bottom: 1em;
+    padding-bottom: 0.75em;
+    border-bottom: 2px solid $border-color;
+    color: $text-color;
+    font-weight: 600;
+    position: relative;
+    
+    &::after {
+      content: '';
+      position: absolute;
+      bottom: -2px;
+      left: 0;
+      width: 60px;
+      height: 2px;
+      background: linear-gradient(90deg, $info-color, lighten($info-color, 20%));
+      border-radius: 2px;
+    }
+  }
+  
+  h2 {
+    margin-top: 1.5em;
+    margin-bottom: 1em;
+    color: $text-color;
+    font-weight: 600;
   }
 
   p, li, dl {
-    font-size: 1em;
+    font-size: 1.05em;
+    line-height: 1.8;
+    color: lighten($text-color, 5%);
+  }
+  
+  ul, ol {
+    li {
+      margin-bottom: 0.5em;
+      
+      &::marker {
+        color: $info-color;
+      }
+    }
   }
 
   /* paragraph indents */
@@ -84,13 +118,20 @@
   }
 
   a {
-    text-decoration: underline;
+    color: $info-color;
+    text-decoration: none;
+    font-weight: 500;
+    transition: $global-transition;
+    border-bottom: 1px solid transparent;
 
     &:hover {
-      text-decoration: underline;
+      color: darken($info-color, 10%);
+      border-bottom-color: darken($info-color, 10%);
+      text-decoration: none;
 
       img {
-        box-shadow: 0 0 10px rgba(#000, 0.25);
+        box-shadow: 0 0 15px rgba($info-color, 0.3);
+        transform: scale(1.02);
       }
     }
   }
