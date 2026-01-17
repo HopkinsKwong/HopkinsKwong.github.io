@@ -203,8 +203,10 @@ iframe[src*="mapmyvisitors"],
 div[class*="mapmyvisitors"] {
     max-width: 100% !important;
     width: 100% !important;
-    height: auto !important;
-    max-height: 300px !important;
+    height: 400px !important;
+    min-height: 300px !important;
+    border: none !important;
+    display: block !important;
 }
 
 .institution-box {

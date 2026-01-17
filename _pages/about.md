@@ -24,45 +24,15 @@ I am currently a Master’s candidate in the School of Information Science and E
 
 # 📖 Educations
 
-<div class='institution-box'>
-<div class='institution-logo'>
-<img src='images/LZU.png' alt="Lanzhou University Logo">
-</div>
-<div class='institution-text' markdown="1">
-*2023.09 - 2026.06 (Expected)*, Master's Degree, School of Information Science and Engineering, Lanzhou University.
-</div>
-</div>
-
-<div class='institution-box'>
-<div class='institution-logo'>
-<img src='images/LZU.png' alt="Lanzhou University Logo">
-</div>
-<div class='institution-text' markdown="1">
-*2019.09 - 2023.06*, Bachelor's Degree, School of Information Science and Engineering, Lanzhou University.
-</div>
-</div>
+- *2023.09 - 2026.06 (Expected)*, Master's Degree, School of Information Science and Engineering, Lanzhou University.
+- *2019.09 - 2023.06*, Bachelor's Degree, School of Information Science and Engineering, Lanzhou University.
 
 <span class='anchor' id='-internships'></span>
 
 # 💻 Internships
 
-<div class='institution-box'>
-<div class='institution-logo'>
-<img src='images/HKBU.png' alt="Hong Kong Baptist University Logo">
-</div>
-<div class='institution-text' markdown="1">
-*2025.06 - 2025.12*, Research Assistant, [UltraVision+ Lab](https://ultravisionlab.github.io/), Department of Computer Science, Hong Kong Baptist University, Hong Kong, China. (Supervisor: [Xiaoqing Guo](https://ultravisionlab.github.io/team/))
-</div>
-</div>
-
-<div class='institution-box'>
-<div class='institution-logo'>
-<img src='images/WLU.png' alt="Westlake University Logo">
-</div>
-<div class='institution-text' markdown="1">
-*2025.02 - 2025.05*, Visiting Student, [Medical Artificial Intelligence Laboratory](https://medai.lab.westlake.edu.cn/), School of Engineering, Westlake University, Hangzhou, China. (Supervisor: [Yefeng Zheng](https://medai.lab.westlake.edu.cn/Team.htm))
-</div>
-</div>
+- *2025.06 - 2025.12*, Research Assistant, [UltraVision+ Lab](https://ultravisionlab.github.io/), Department of Computer Science, Hong Kong Baptist University, Hong Kong, China. (Supervisor: [Xiaoqing Guo](https://ultravisionlab.github.io/team/))
+- *2025.02 - 2025.05*, Visiting Student, [Medical Artificial Intelligence Laboratory](https://medai.lab.westlake.edu.cn/), School of Engineering, Westlake University, Hangzhou, China. (Supervisor: [Yefeng Zheng](https://medai.lab.westlake.edu.cn/Team.htm))
 
 <span class='anchor' id='-news'></span>
 
