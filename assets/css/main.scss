@@ -213,7 +213,7 @@ div[class*="mapmyvisitors"] {
     align-items: center;
     flex-direction: row;
     padding: 0.75em 0;
-    margin-bottom: 0.5em;
+    margin-bottom: 0.25em;
     transition: $global-transition;
     border-radius: $border-radius;
     
@@ -235,8 +235,8 @@ div[class*="mapmyvisitors"] {
         order: 1;
         
         img {
-            max-width: 40px;
-            max-height: 40px;
+            max-width: 50px;
+            max-height: 50px;
             width: auto;
             height: auto;
             object-fit: contain;
