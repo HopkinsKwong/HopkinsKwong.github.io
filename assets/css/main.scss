@@ -196,17 +196,19 @@ h1:before, .anchor:before {
     }
 }
 
-// MapMyVisitors visitor map size limit
-#mapmyvisitors,
-[id*="mapmyvisitors"],
-iframe[src*="mapmyvisitors"],
-div[class*="mapmyvisitors"] {
-    max-width: 100% !important;
-    width: 100% !important;
-    height: 400px !important;
-    min-height: 300px !important;
-    border: none !important;
-    display: block !important;
+// MapMyVisitors visitor map styles
+.mapmyvisitors-container {
+    max-width: 65%;
+    margin: 1em auto;
+    text-align: center;
+    
+    iframe[src*="mapmyvisitors"],
+    div[class*="mapmyvisitors"],
+    div[id*="mapmyvisitors"] {
+        max-width: 100% !important;
+        width: 100% !important;
+        display: inline-block !important;
+    }
 }
 
 .institution-box {

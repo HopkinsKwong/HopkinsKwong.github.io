@@ -24,15 +24,15 @@ I am currently a Master’s candidate in the School of Information Science and E
 
 # 📖 Educations
 
-- *2023.09 - 2026.06 (Expected)*, Master's Degree, School of Information Science and Engineering, Lanzhou University.
-- *2019.09 - 2023.06*, Bachelor's Degree, School of Information Science and Engineering, Lanzhou University.
+- *2023.09 - 2026.06 (Expected)*, Master's Degree, School of Information Science and Engineering, [Lanzhou University](https://www.lzu.edu.cn/).
+- *2019.09 - 2023.06*, Bachelor's Degree, School of Information Science and Engineering, [Lanzhou University](https://www.lzu.edu.cn/).
 
 <span class='anchor' id='-internships'></span>
 
 # 💻 Internships
 
-- *2025.06 - 2025.12*, Research Assistant, [UltraVision+ Lab](https://ultravisionlab.github.io/), Department of Computer Science, Hong Kong Baptist University, Hong Kong, China. (Supervisor: [Xiaoqing Guo](https://ultravisionlab.github.io/team/))
-- *2025.02 - 2025.05*, Visiting Student, [Medical Artificial Intelligence Laboratory](https://medai.lab.westlake.edu.cn/), School of Engineering, Westlake University, Hangzhou, China. (Supervisor: [Yefeng Zheng](https://medai.lab.westlake.edu.cn/Team.htm))
+- *2025.06 - 2025.12*, Research Assistant, [UltraVision+ Lab](https://ultravisionlab.github.io/), Department of Computer Science, [Hong Kong Baptist University](https://www.hkbu.edu.hk/), Hong Kong, China. (Supervisor: [Xiaoqing Guo](https://ultravisionlab.github.io/team/))
+- *2025.02 - 2025.05*, Visiting Student, [Medical Artificial Intelligence Laboratory](https://medai.lab.westlake.edu.cn/), School of Engineering, [Westlake University](https://en.westlake.edu.cn/), Hangzhou, China. (Supervisor: [Yefeng Zheng](https://medai.lab.westlake.edu.cn/Team.htm))
 
 <span class='anchor' id='-news'></span>
 
