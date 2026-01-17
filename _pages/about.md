@@ -60,7 +60,7 @@ I am currently a Master’s candidate in the School of Information Science and E
 <img src='images/WLU.png' alt="Westlake University Logo">
 </div>
 <div class='institution-text' markdown="1">
-*2024.12 - 2025.05*, Visiting Student, [Medical Artificial Intelligence Laboratory](https://medai.lab.westlake.edu.cn/), School of Engineering, Westlake University, Hangzhou, China. (Supervisor: [Yefeng Zheng](https://medai.lab.westlake.edu.cn/Team.htm))
+*2025.02 - 2025.05*, Visiting Student, [Medical Artificial Intelligence Laboratory](https://medai.lab.westlake.edu.cn/), School of Engineering, Westlake University, Hangzhou, China. (Supervisor: [Yefeng Zheng](https://medai.lab.westlake.edu.cn/Team.htm))
 </div>
 </div>
 
