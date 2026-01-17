@@ -195,12 +195,22 @@ h1:before, .anchor:before {
     }
 }
 
+// MapMyVisitors visitor map size limit
+#mapmyvisitors,
+[id*="mapmyvisitors"],
+iframe[src*="mapmyvisitors"],
+div[class*="mapmyvisitors"] {
+    max-width: 100% !important;
+    width: 100% !important;
+    height: auto !important;
+    max-height: 300px !important;
+}
+
 .institution-box {
     display: flex;
-    justify-content: left;
+    justify-content: flex-start;
     align-items: center;
     flex-direction: row;
-    flex-wrap: wrap;
     padding: 1.5em 0;
     margin-bottom: 1em;
     transition: $global-transition;
@@ -214,15 +224,18 @@ h1:before, .anchor:before {
 
     .institution-logo {
         justify-content: center;
+        align-items: center;
         display: flex;
-        width: 100%;
-        order: 2;
-        min-width: 80px;
-        max-width: 80px;
+        width: 60px;
+        min-width: 60px;
+        max-width: 60px;
+        flex-shrink: 0;
+        margin-right: 1.5em;
+        order: 1;
         
         img {
-            max-width: 80px;
-            max-height: 80px;
+            max-width: 35px;
+            max-height: 35px;
             width: auto;
             height: auto;
             object-fit: contain;
@@ -236,10 +249,10 @@ h1:before, .anchor:before {
     }
     
     .institution-text {
-        max-width: 100%;
-        order: 1;
+        flex: 1;
+        order: 2;
         line-height: 1.7;
-        padding-right: 1em;
+        min-width: 0; // Allow text to shrink if needed
         
         a {
             color: $info-color;
@@ -251,19 +264,6 @@ h1:before, .anchor:before {
                 color: darken($info-color, 10%);
                 text-decoration: underline;
             }
-        }
-    }
-    
-    @include breakpoint($medium) {
-        .institution-logo {
-            order: 1;
-            margin-right: 1.5em;
-        }
-        
-        .institution-text {
-            order: 2;
-            flex: 1;
-            padding-right: 0;
         }
     }
 }
