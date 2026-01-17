@@ -6,8 +6,8 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "About Me - Jia-Xuan's"
-description              : "Applying for a PhD"
+title                    : "Jia-Xuan Jiang"
+description              : 
 repository               : "HopkinsKwong/HopkinsKwong.github.io"
 google_scholar_stats_use_cdn : true
 

@@ -20,6 +20,8 @@ redirect_from:
 I am currently a Master’s candidate in the School of Information Science and Engineering at Lanzhou University, majoring in Computer Science and Technology. My research focuses on deep learning techniques for brain-computer interfaces (BCIs) and medical image analysis, with a particular emphasis on EEG signal processing and single-source domain generalization training. I have achieved outstanding academic performance, having been awarded several scholarships (including the China National Scholarship for both 2024 and 2025), and I also serve as the principal investigator of a project funded by the Fundamental Research Funds for the Central Universities of China.
 
 
+<span class='anchor' id='-educations'></span>
+
 # 📖 Educations
 
 <div class='institution-box'>
@@ -39,6 +41,8 @@ I am currently a Master’s candidate in the School of Information Science and E
 *2019.09 - 2023.06*, Bachelor's Degree, School of Information Science and Engineering, Lanzhou University.
 </div>
 </div>
+
+<span class='anchor' id='-internships'></span>
 
 # 💻 Internships
 
@@ -60,6 +64,8 @@ I am currently a Master’s candidate in the School of Information Science and E
 </div>
 </div>
 
+<span class='anchor' id='-news'></span>
+
 # 🔥 News
 - *2025.10*: &nbsp;🎉🎉 One paper accepted to BSPC 2026 (undergraduate supervision project).
 - *2025.07*: &nbsp;🎉🎉 Three paper accepted to ACM MM 2025.
@@ -69,6 +75,8 @@ I am currently a Master’s candidate in the School of Information Science and E
 - *2024.09*: &nbsp;🎉🎉 One paper accepted to BSPC 2026.
 - *2024.09*: &nbsp;🎉🎉 Secured funding from the Fundamental Research Funds for the Central Universities of China.
 - *2024.09*: &nbsp;🎉🎉 One paper accepted to NEUR 2025! 
+
+<span class='anchor' id='-publications'></span>
 
 # 📝 Selected Publications 
 
@@ -113,6 +121,8 @@ Zhong Wang, **Jia-Xuan Jiang**, Hao-Ran Wang, Ling Zhou, Yuee Li
 </div>
 </div>
 
+
+<span class='anchor' id='-honors-and-awards'></span>
 
 # 🎖 Honors and Awards
 - *2025.10* China National Scholarship 2025
