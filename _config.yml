@@ -21,10 +21,10 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Jia-Xuan Jiang (江佳炫)"
+  name             : "Jia-Xuan Jiang"
   avatar           : "images/me.jpg"
-  bio              : "Master's degree candidate"
-  location         : "Hanzhou, China"
+  bio              : "Incoming PhD candidate with research experience in medical image analysis, and current focus on brain-computer interfaces."
+  location         : "Hong Kong, China"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=V22xq9wAAAAJ"
