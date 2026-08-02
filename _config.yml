@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Jia-Xuan Jiang"
-description              : Deep Learning for BCIs
+description              : Trustworthy Medical AI
 repository               : "HopkinsKwong/HopkinsKwong.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,12 +23,12 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Jia-Xuan Jiang"
   avatar           : "images/me.jpg"
-  bio              : "Incoming PhD candidate with research experience in medical image analysis, and current focus on brain-computer interfaces."
+  bio              : "PhD Student · CUHK"
   location         : "Hong Kong, China"
-  employer         :
+  employer         : "Artificial Intelligence in Medicine Group"
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=V22xq9wAAAAJ"
-  email            : "jiangjx2023@lzu.edu.cn"
+  googlescholar    : "https://scholar.google.com/citations?user=V22xq9wAAAAJ&hl=zh-CN"
+  email            : "1155273359@link.cuhk.edu.hk"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -37,7 +37,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "https://github.com/HopkinsKwong" # e.g., "HopkinsKwong"
+  github           : "HopkinsKwong" # e.g., "HopkinsKwong"
   google_plus      :
   keybase          :
   instagram        :

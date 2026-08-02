@@ -3,100 +3,101 @@ permalink: /
 title: ""
 excerpt: ""
 author_profile: true
-redirect_from: 
+redirect_from:
   - /about/
   - /about.html
 ---
 
-{% if site.google_scholar_stats_use_cdn %}
-{% assign gsDataBaseUrl = "https://cdn.jsdelivr.net/gh/" | append: site.repository | append: "@" %}
-{% else %}
-{% assign gsDataBaseUrl = "https://raw.githubusercontent.com/" | append: site.repository | append: "/" %}
-{% endif %}
-{% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
+<span class="anchor" id="about-me"></span>
 
-<span class='anchor' id='about-me'></span>
+<header class="profile-hero">
+  <p class="profile-hero__eyebrow">AI for medicine · Hong Kong</p>
+  <h1>Research that makes<br><span>healthcare intelligence</span><br>more reliable.</h1>
+  <p class="profile-hero__intro">I am a PhD student at The Chinese University of Hong Kong, working with the <a href="https://www.ee.cuhk.edu.hk/~yxyuan/">Artificial Intelligence in Medicine Group</a>. My research focuses on trustworthy medical AI and representation learning.</p>
+  <div class="profile-hero__actions">
+    <a class="primary-link" href="mailto:1155273359@link.cuhk.edu.hk">Get in touch <span aria-hidden="true">↗</span></a>
+    <a class="secondary-link" href="https://scholar.google.com/citations?user=V22xq9wAAAAJ&hl=zh-CN">Google Scholar <span aria-hidden="true">↗</span></a>
+  </div>
+</header>
 
-I am currently a Master’s candidate in the School of Information Science and Engineering at Lanzhou University, majoring in Computer Science and Technology. My research focuses on deep learning techniques for brain-computer interfaces (BCIs) and medical image analysis, with a particular emphasis on EEG signal processing and single-source domain generalization training. I have achieved outstanding academic performance, having been awarded several scholarships (including the China National Scholarship for both 2024 and 2025), and I also serve as the principal investigator of a project funded by the Fundamental Research Funds for the Central Universities of China.
+<section class="statement" aria-label="Research statement">
+  <p>I build learning systems for medical data—across images, signals, and modalities—with an emphasis on robustness, generalization, and clinical value.</p>
+</section>
 
+<span class="anchor" id="-news"></span>
 
-<span class='anchor' id='-educations'></span>
+# Selected updates
 
-# 📖 Educations
+<div class="update-list">
+  <div class="update-item"><time>2026</time><p>Joined The Chinese University of Hong Kong and the Artificial Intelligence in Medicine Group.</p></div>
+  <div class="update-item"><time>2025.10</time><p>One paper accepted to <strong>Biomedical Signal Processing and Control</strong>.</p></div>
+  <div class="update-item"><time>2025.07</time><p>Three papers accepted to <strong>ACM Multimedia 2025</strong>.</p></div>
+  <div class="update-item"><time>2025.03</time><p>Papers accepted to <strong>Expert Systems with Applications</strong> and <strong>Neurocomputing</strong>.</p></div>
+</div>
 
-- *2023.09 - 2026.06 (Expected)*, Master's Degree, School of Information Science and Engineering, [Lanzhou University](https://www.lzu.edu.cn/).
-- *2019.09 - 2023.06*, Bachelor's Degree, School of Information Science and Engineering, [Lanzhou University](https://www.lzu.edu.cn/).
+<span class="anchor" id="-publications"></span>
 
-<span class='anchor' id='-internships'></span>
+# Selected work
 
-# 💻 Internships
-
-- *2025.06 - 2025.12*, Research Assistant, [UltraVision+ Lab](https://ultravisionlab.github.io/), Department of Computer Science, [Hong Kong Baptist University](https://www.hkbu.edu.hk/), Hong Kong, China. (Supervisor: [Xiaoqing Guo](https://ultravisionlab.github.io/team/))
-- *2025.02 - 2025.05*, Visiting Student, [Medical Artificial Intelligence Laboratory](https://medai.lab.westlake.edu.cn/), School of Engineering, [Westlake University](https://en.westlake.edu.cn/), Hangzhou, China. (Supervisor: [Yefeng Zheng](https://medai.lab.westlake.edu.cn/Team.htm))
-
-<span class='anchor' id='-news'></span>
-
-# 🔥 News
-- *2025.10*: &nbsp;🎉🎉 One paper accepted to BSPC 2026 (undergraduate supervision project).
-- *2025.07*: &nbsp;🎉🎉 Three paper accepted to ACM MM 2025.
-- *2025.03*: &nbsp;🎉🎉 One paper accepted to ESWA 2025.
-- *2025.03*: &nbsp;🎉🎉 One paper accepted to NEUR 2025 (undergraduate supervision project).
-- *2024.10*: &nbsp;🎉🎉 One paper accepted to BSPC 2025.
-- *2024.09*: &nbsp;🎉🎉 One paper accepted to BSPC 2026.
-- *2024.09*: &nbsp;🎉🎉 Secured funding from the Fundamental Research Funds for the Central Universities of China.
-- *2024.09*: &nbsp;🎉🎉 One paper accepted to NEUR 2025! 
-
-<span class='anchor' id='-publications'></span>
-
-# 📝 Selected Publications 
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM Multimedia 2025</div><img src='images/MMSDG.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+<div class="paper-box"><div class="paper-box-image"><div><div class="badge">ACM MM 2025</div><img src="images/MMSDG.png" alt="Method overview for multimodal cross-cancer prognosis"></div></div>
+<div class="paper-box-text" markdown="1">
 
 [Single Domain Generalization for Multimodal Cross-Cancer Prognosis via Dirac Rebalancer and Distribution Entanglement](https://dl.acm.org/doi/abs/10.1145/3746027.3754838)
 
 **Jia-Xuan Jiang**, Jiashuai Liu, Hongtao Wu, Yifeng Wu, Zhong Wang, Qi Bi, Yefeng Zheng
- 
-</div>
-</div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">BSPC 2025</div><img src='images/PCSDG.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+</div></div>
+
+<div class="paper-box"><div class="paper-box-image"><div><div class="badge">BSPC 2025</div><img src="images/PCSDG.png" alt="Method overview for optic disc and cup segmentation"></div></div>
+<div class="paper-box-text" markdown="1">
 
 [Structure-aware single-source generalization with pixel-level disentanglement for joint optic disc and cup segmentation](https://www.sciencedirect.com/science/article/abs/pii/S1746809424008590)
 
 **Jia-Xuan Jiang**, Yuee Li, Zhong Wang
- 
-</div>
-</div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NEUR 2025</div><img src='images/Kinship.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+</div></div>
+
+<div class="paper-box"><div class="paper-box-image"><div><div class="badge">Neurocomputing 2025</div><img src="images/Kinship.png" alt="Framework overview for kinship recognition"></div></div>
+<div class="paper-box-text" markdown="1">
 
 [Multi-attribute balanced dataset generation framework AutoSyn and KinFace Channel-Spatial Feature Extractor for kinship recognition](https://www.sciencedirect.com/science/article/abs/pii/S0925231224015212)
 
-**Jia-Xuan Jiang**, Hongsheng Jing, Ling Zhou, Yuee Li, Zhong Wang 
-</div>
-</div>
+**Jia-Xuan Jiang**, Hongsheng Jing, Ling Zhou, Yuee Li, Zhong Wang
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ESWA 2025</div><img src='images/LASM.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+</div></div>
 
-[Localized Adaptive Style Mixing for feature statistics manipulation in medical image translation with limited Data](https://www.sciencedirect.com/science/article/pii/S0957417425008395)
+<div class="paper-box"><div class="paper-box-image"><div><div class="badge">ESWA 2025</div><img src="images/LASM.png" alt="Method overview for adaptive style mixing"></div></div>
+<div class="paper-box-text" markdown="1">
+
+[Localized Adaptive Style Mixing for feature statistics manipulation in medical image translation with limited data](https://www.sciencedirect.com/science/article/pii/S0957417425008395)
 
 Zhong Wang, **Jia-Xuan Jiang**, Hao-Ran Wang, Ling Zhou, Yuee Li
 
+</div></div>
 
-<!-- [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>  -->
+<span class="anchor" id="-experience"></span>
+
+# Experience
+
+<div class="timeline">
+  <div class="timeline__item"><div><span>2026 — Present</span><h2>PhD Student</h2></div><p><a href="https://www.cuhk.edu.hk/english/index.html">The Chinese University of Hong Kong</a><br><a href="https://www.ee.cuhk.edu.hk/~yxyuan/">Artificial Intelligence in Medicine Group</a></p></div>
+  <div class="timeline__item"><div><span>2025</span><h2>Research Assistant</h2></div><p>UltraVision+ Lab<br>Hong Kong Baptist University</p></div>
+  <div class="timeline__item"><div><span>2025</span><h2>Visiting Student</h2></div><p>Medical Artificial Intelligence Laboratory<br>Westlake University</p></div>
+  <div class="timeline__item"><div><span>2019 — 2026</span><h2>B.Eng. & M.Eng.</h2></div><p>Computer Science and Technology<br>Lanzhou University</p></div>
 </div>
+
+<span class="anchor" id="-honors"></span>
+
+# Recognition
+
+<div class="recognition-grid">
+  <div><span>2025</span><strong>China National Scholarship</strong></div>
+  <div><span>2024</span><strong>China National Scholarship</strong></div>
+  <div><span>2024</span><strong>China Graduate Mathematical Modeling Competition · Second Prize</strong></div>
+  <div><span>2024</span><strong>Fundamental Research Funds for the Central Universities · Principal Investigator</strong></div>
 </div>
 
-
-<span class='anchor' id='-honors-and-awards'></span>
-
-# 🎖 Honors and Awards
-- *2025.10* China National Scholarship 2025
-- *2024.11* Second Prize in the 21st China Graduate Mathematical Modeling Competition
-- *2024.10* China National Scholarship 2024
-- *2024.09* Fundamental Research Funds for the Central Universities of China (Principal Investigator)
-
+<footer class="page-footer">
+  <p>Jia-Xuan Jiang · CUHK</p>
+  <a href="mailto:1155273359@link.cuhk.edu.hk">1155273359@link.cuhk.edu.hk</a>
+</footer>
