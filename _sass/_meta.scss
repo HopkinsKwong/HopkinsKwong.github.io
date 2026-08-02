@@ -4,7 +4,8 @@
   --muted: #667085;
   --line: #e7e9ee;
   --surface: #f6f7f9;
-  --brand: #0866ff;
+  --brand: #6f2c91;
+  --brand-dark: #572273;
 }
 
 html { scroll-behavior: smooth; }
@@ -14,6 +15,17 @@ body {
   background: #fff;
   font-family: -apple-system, BlinkMacSystemFont, "SF Pro Display", "Segoe UI", Helvetica, Arial, sans-serif;
   letter-spacing: -.01em;
+}
+
+::selection {
+  color: #fff;
+  background: var(--brand);
+}
+
+a:focus-visible {
+  outline: 2px solid var(--brand);
+  outline-offset: 4px;
+  border-radius: 4px;
 }
 
 .masthead {
@@ -63,7 +75,7 @@ body {
 .profile-hero__actions a { display: inline-flex; align-items: center; gap: .55rem; padding: .8rem 1.15rem; border-radius: 999px; font-size: .92rem; font-weight: 600; transition: transform .2s ease, background .2s ease; }
 .profile-hero__actions a:hover { transform: translateY(-2px); }
 .profile-hero__actions .primary-link { color: #fff; background: var(--brand); }
-.profile-hero__actions .primary-link:hover { color: #fff; background: #0057de; }
+.profile-hero__actions .primary-link:hover { color: #fff; background: var(--brand-dark); }
 .profile-hero__actions .secondary-link { background: var(--surface); }
 
 .statement { padding: clamp(4rem, 8vw, 7rem); margin: 0 0 2rem; background: var(--surface); border-radius: 32px; }
