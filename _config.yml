@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Jia-Xuan Jiang"
-description              : Trustworthy Medical AI
+description              : Medical AI
 repository               : "HopkinsKwong/HopkinsKwong.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -25,7 +25,7 @@ author:
   avatar           : "images/me.jpg"
   bio              : "PhD Student · CUHK"
   location         : "Hong Kong, China"
-  employer         : "Artificial Intelligence in Medicine Group"
+  employer         : "AIM Group"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=V22xq9wAAAAJ&hl=zh-CN"
   email            : "1155273359@link.cuhk.edu.hk"
