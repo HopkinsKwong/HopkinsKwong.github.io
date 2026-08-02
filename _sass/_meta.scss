@@ -108,6 +108,9 @@ a:focus-visible {
 
 .page-footer { display: flex; justify-content: space-between; gap: 1rem; margin-top: 8rem; padding: 2rem 0 3rem; border-top: 1px solid var(--line); }
 .page-footer p, .page-footer a { margin: 0 !important; color: var(--muted); font-size: .82rem; }
+.page-footer #visitor-count { color: var(--muted); font-size: .82rem; }
+.page-footer #visitor-count > span { margin-right: .35rem; }
+.page-footer #visitor-count > div { display: inline; padding: 0; border: 0; background: transparent; color: inherit; }
 
 @media (min-width: 64em) {
   .page { width: calc(100% - 250px); padding-left: 4rem; }

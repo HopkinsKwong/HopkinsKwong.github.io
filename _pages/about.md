@@ -96,5 +96,6 @@ Zhong Wang, **Jia-Xuan Jiang**, Hao-Ran Wang, Ling Zhou, Yuee Li
 
 <footer class="page-footer">
   <p>Jia-Xuan Jiang &middot; CUHK</p>
+  <div id="visitor-count" aria-label="Total website visits"><span>Visits</span></div>
   <a href="mailto:1155273359@link.cuhk.edu.hk">1155273359@link.cuhk.edu.hk</a>
 </footer>
